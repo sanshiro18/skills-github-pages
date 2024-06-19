@@ -1,4 +1,7 @@
 theme: minima
 title: just learning how to use github
-author: sanshiro18
+author: santa
 description:
+# A first-level heading
+## A second-level heading
+### A third-level heading
